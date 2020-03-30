@@ -1,7 +1,7 @@
 ## AngularJS Books App
 ### from [Codecademy](https://www.codecademy.com/learn/learn-angularjs)
 
-This is our typical workflow when making an AngularJS app:
+A typical workflow when making an AngularJS app:
 
 - ``ng-app`` is used to define the application scope
 - ``ng-controller`` is used to define the controller scope
@@ -11,7 +11,7 @@ This is our typical workflow when making an AngularJS app:
 - The view automatically changes and displays the updated data
 - The page doesn’t need to reload at any point
 
-We’ve used a few directives in this app:
+Directives used in this app:
 - ng-app
 - ng-controller
 - ng-repeat
