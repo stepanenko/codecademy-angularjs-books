@@ -1,12 +1,11 @@
 {
   "name": "react-hooks",
-  "title": "React Hooks 🎣",
+  "title": "React Hooks",
   "private": true,
   "version": "1.0.0",
-  "description": "The best resources for you to learn React Hooks",
+  "description": "learn React Hooks",
+  "author": "",
   "keywords": [],
-  "homepage": "https://react-hooks.netlify.app/",
-  "license": "GPL-3.0-only",
   "main": "src/index.js",
   "engines": {
     "node": "^10.13 || 12 || 14 || 15",
@@ -76,9 +75,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kentcdodds/react-hooks.git"
-  },
-  "author": "Kent C. Dodds <me@kentcdodds.com> (https://kentcdodds.com/)",
-  "bugs": {
-    "url": "https://github.com/kentcdodds/react-hooks/issues"
   }
 }

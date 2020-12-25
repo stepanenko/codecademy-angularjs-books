@@ -39,11 +39,11 @@ variable and how to fix it here for [windows][win-path] or
 ## Setup
 
 After you've made sure to have the correct things (and versions) installed, you
-should be able to just run a few commands to get set up:
+should be able to just run a few commands to get set up. If the next command is done
+no `npm install` and `npm run validate` are needed, just run the app `npm start`.
 
 ```
-git clone https://github.com/kentcdodds/react-hooks.git
-cd react-hooks
+
 node setup
 ```
 
@@ -52,9 +52,7 @@ optional and just automatically adds your email to the links in the project to
 make filling out some forms easier.
 
 If you get any errors, please read through them and see if you can find out what
-the problem is. If you can't work it out on your own then please [file an
-issue][issue] and provide _all_ the output from the commands you ran (even if
-it's a lot).
+the problem is.
 
 If you can't get the setup script to work, then just make sure you have the
 right versions of the requirements listed above, and run the following commands:
@@ -134,9 +132,6 @@ _I_ walk through the material.
 - **Peter the Product Manager** 👨‍💼 helps us know what our users want
 - **Alfred the Alert** 🚨 will occasionally show up in the test failures with
   potential explanations for why the tests are failing.
-
-Thanks goes to these wonderful people
-([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- prettier-ignore-start -->
 [npm]: https://www.npmjs.com/
