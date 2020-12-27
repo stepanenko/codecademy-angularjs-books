@@ -110,8 +110,7 @@ a complete authority.
 - `src/final/00.extra-0.js`: Final version of extra credit
 
 The purpose of the exercise is **not** for you to work through all the material.
-It's intended to get your brain thinking about the right questions to ask me as
-_I_ walk through the material.
+It's intended to get your brain thinking about the right questions.
 
 ### Helpful Emoji
 
